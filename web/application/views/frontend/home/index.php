@@ -13,7 +13,7 @@
         <div class="carousel-item active">
 
           <div class="row justify-content-center gy-6">
-            <img src="<?= base_url('') ?>assets/file/frontend/image/home/home1.jpg" alt="" class="img-fluid img carousel-img-alif">
+            <img src="<?= base_url('') ?>assets/file/frontend/image/home/home1.webp" alt="" class="img-fluid img carousel-img-alif" width="1429" height="803" fetchpriority="high" decoding="async">
             <div class="col-lg-9 text-center">
 
               <h2 class="color-secondary-light">"Towards Sustainable Resources"</h2>
@@ -27,7 +27,7 @@
         <div class="carousel-item ">
 
           <div class="row justify-content-center gy-6">
-            <img src="<?= base_url('') ?>assets/file/frontend/image/home/home2.jpg" alt="" class="img-fluid img carousel-img-alif">
+            <img src="<?= base_url('') ?>assets/file/frontend/image/home/home2.webp" alt="" class="img-fluid img carousel-img-alif" width="1431" height="954" loading="lazy" decoding="async">
             <div class="col-lg-9 text-center">
 
               <h2 class="color-secondary-light">“Maju, Tumbuh dan Berkembang, Bersama Kita Bisa”</h2>
@@ -41,7 +41,7 @@
         <div class="carousel-item">
 
           <div class="row justify-content-center gy-6">
-            <img src="<?= base_url('') ?>assets/file/frontend/image/home/home3.jpg" alt="" class="img-fluid img carousel-img-alif">
+            <img src="<?= base_url('') ?>assets/file/frontend/image/home/home3.webp" alt="" class="img-fluid img carousel-img-alif" width="1430" height="804" loading="lazy" decoding="async">
             <div class="col-lg-9 text-center">
 
               <h2 class="color-secondary-light">“Integritas, Konsisten, Berpikir Besar”</h2>
@@ -87,7 +87,7 @@
 
         <div class="col-xl-4 col-md-6 d-flex" data-aos="zoom-out" data-aos-delay="400">
           <div class="service-item position-relative">
-            <div class="icon d-flex justify-content-center"><i class="ri-service-line"></i></div>
+            <div class="icon d-flex justify-content-center"><i class="bi bi-people"></i></div>
             <h4>Long Term Relationship</h4>
             <p class="text-justify">Membangun hubungan yang
               kuat dan saling
@@ -124,7 +124,7 @@
 
         <div class="col-lg-5">
           <div class="about-img">
-            <img src="<?= base_url('') ?>assets/file/frontend/image/visimisi/sawit_visimisi.jpg" class="img-fluid" alt="">
+            <img src="<?= base_url('') ?>assets/file/frontend/image/visimisi/sawit_visimisi.webp" class="img-fluid" alt="" width="848" height="1200" loading="lazy" decoding="async">
           </div>
         </div>
 
@@ -199,7 +199,7 @@
         <div class="col-xl-4 col-md-6" data-aos="zoom-in" data-aos-delay="200">
           <div class="service-item">
             <div class="img">
-              <img src="<?= base_url('') ?>assets/file/frontend/image/layanan/cpo.jpg" class="img-fluid" alt="">
+              <img src="<?= base_url('') ?>assets/file/frontend/image/layanan/cpo.webp" class="img-fluid" alt="" width="1200" height="800" loading="lazy" decoding="async">
             </div>
             <div class="details position-relative" style="height:350px">
               <div class="icon">
@@ -219,7 +219,7 @@
         <div class="col-xl-4 col-md-6" data-aos="zoom-in" data-aos-delay="200">
           <div class="service-item">
             <div class="img">
-              <img src="<?= base_url('') ?>assets/file/frontend/image/layanan/fame.jpg" class="img-fluid" alt="">
+              <img src="<?= base_url('') ?>assets/file/frontend/image/layanan/fame.webp" class="img-fluid" alt="" width="1200" height="800" loading="lazy" decoding="async">
             </div>
             <div class="details position-relative" style="height:350px">
               <div class="icon">
@@ -240,7 +240,7 @@
         <div class="col-xl-4 col-md-6" data-aos="zoom-in" data-aos-delay="200">
           <div class="service-item">
             <div class="img">
-              <img src="<?= base_url('') ?>assets/file/frontend/image/layanan/RBDPO.jpg" class="img-fluid" alt="">
+              <img src="<?= base_url('') ?>assets/file/frontend/image/layanan/RBDPO.webp" class="img-fluid" alt="" width="1200" height="800" loading="lazy" decoding="async">
             </div>
             <div class="details position-relative " style="height:350px">
               <div class="icon">
@@ -266,7 +266,7 @@
         <div class="col-xl-4 col-md-6" data-aos="zoom-in" data-aos-delay="200">
           <div class="service-item">
             <div class="img">
-              <img src="<?= base_url('') ?>assets/file/frontend/image/layanan/pfad.jpg" class="img-fluid" alt="">
+              <img src="<?= base_url('') ?>assets/file/frontend/image/layanan/pfad.webp" class="img-fluid" alt="" width="1200" height="800" loading="lazy" decoding="async">
             </div>
             <div class="details position-relative" style="height:350px">
               <div class="icon">
@@ -287,7 +287,7 @@
         <div class="col-xl-4 col-md-6" data-aos="zoom-in" data-aos-delay="200">
           <div class="service-item">
             <div class="img">
-              <img src="<?= base_url('') ?>assets/file/frontend/image/layanan/Glycerin.jpg" class="img-fluid" alt="">
+              <img src="<?= base_url('') ?>assets/file/frontend/image/layanan/Glycerin.webp" class="img-fluid" alt="" width="590" height="393" loading="lazy" decoding="async">
             </div>
             <div class="details position-relative" style="height:350px">
               <div class="icon">
@@ -307,7 +307,7 @@
         <div class="col-xl-4 col-md-6" data-aos="zoom-in" data-aos-delay="200">
           <div class="service-item">
             <div class="img">
-              <img src="<?= base_url('') ?>assets/file/frontend/image/layanan/fatty meter.jpg" class="img-fluid" alt="">
+              <img src="<?= base_url('') ?>assets/file/frontend/image/layanan/fatty meter.webp" class="img-fluid" alt="" width="1200" height="800" loading="lazy" decoding="async">
             </div>
             <div class="details position-relative" style="height:350px">
               <div class="icon">
