@@ -65,3 +65,16 @@ application/config/database.local.php
 **/*.p12
 **/*.pfx
 **/.ftpquota
+
+# Large files/folders uploaded manually to hosting
+/assets/
+/web/assets/
+/user_guide/
+/web/user_guide/
+/ptjar.co.id/
+/web/vendor/
+
+# Non-runtime generated/source/archive files
+**/*.map
+**/*.zip
+**/*.rar
